@@ -1,0 +1,134 @@
+Traceback (most recent call last):
+  File "C:\Users\SAJIDITECH\Downloads\JARVIS_Windows\JARVIS_Windows\jarvis.py", line 733, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\SAJIDITECH\Downloads\JARVIS_Windows\JARVIS_Windows\jarvis.py", line 713, in main
+    calibrate_noise()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\SAJIDITECH\Downloads\JARVIS_Windows\JARVIS_Windows\jarvis.py", line 99, in calibrate_noise
+    f = _mic.read()
+  File "C:\Users\SAJIDITECH\Downloads\JARVIS_Windows\JARVIS_Windows\jarvis.py", line 90, in read
+    return self.q.get(timeout=timeout)
+           ~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\SAJIDITECH\AppData\Local\Programs\Python\Python314\Lib\queue.py", line 209, in get
+    raise Empty
+_queue.Empty
+Traceback (most recent call last):
+  File "C:\Users\SAJIDITECH\Downloads\JARVIS_Windows\JARVIS_Windows\jarvis.py", line 733, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\SAJIDITECH\Downloads\JARVIS_Windows\JARVIS_Windows\jarvis.py", line 713, in main
+    calibrate_noise()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\SAJIDITECH\Downloads\JARVIS_Windows\JARVIS_Windows\jarvis.py", line 99, in calibrate_noise
+    f = _mic.read()
+  File "C:\Users\SAJIDITECH\Downloads\JARVIS_Windows\JARVIS_Windows\jarvis.py", line 90, in read
+    return self.q.get(timeout=timeout)
+           ~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\SAJIDITECH\AppData\Local\Programs\Python\Python314\Lib\queue.py", line 209, in get
+    raise Empty
+_queue.Empty
+Traceback (most recent call last):
+  File "C:\Users\SAJIDITECH\Downloads\JARVIS_Windows\JARVIS_Windows\jarvis.py", line 733, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\SAJIDITECH\Downloads\JARVIS_Windows\JARVIS_Windows\jarvis.py", line 713, in main
+    calibrate_noise()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\SAJIDITECH\Downloads\JARVIS_Windows\JARVIS_Windows\jarvis.py", line 99, in calibrate_noise
+    f = _mic.read()
+  File "C:\Users\SAJIDITECH\Downloads\JARVIS_Windows\JARVIS_Windows\jarvis.py", line 90, in read
+    return self.q.get(timeout=timeout)
+           ~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\SAJIDITECH\AppData\Local\Programs\Python\Python314\Lib\queue.py", line 209, in get
+    raise Empty
+_queue.Empty
+Traceback (most recent call last):
+  File "C:\Users\SAJIDITECH\Downloads\JARVIS_Windows\JARVIS_Windows\jarvis.py", line 733, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\SAJIDITECH\Downloads\JARVIS_Windows\JARVIS_Windows\jarvis.py", line 713, in main
+    calibrate_noise()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\SAJIDITECH\Downloads\JARVIS_Windows\JARVIS_Windows\jarvis.py", line 99, in calibrate_noise
+    f = _mic.read()
+  File "C:\Users\SAJIDITECH\Downloads\JARVIS_Windows\JARVIS_Windows\jarvis.py", line 90, in read
+    return self.q.get(timeout=timeout)
+           ~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\SAJIDITECH\AppData\Local\Programs\Python\Python314\Lib\queue.py", line 209, in get
+    raise Empty
+_queue.Empty
+[mic] using: Microphone Array (Intel® Smart 
+JARVIS: JARVIS standing by. Say Hey Jarvis to wake me.
+[mic] using: Microphone Array (Intel® Smart Sound Technology for Digital Microphones)
+JARVIS: JARVIS standing by. Say Hey Jarvis to wake me.
+[tts] Piper voice: en_GB-alan-medium.onnx
+[stt] loading Whisper 'base' (first run downloads it once)...
+[stt] Whisper ready
+[mic] using: Microphone Array (Intel® Smart Sound Technology for Digital Microphones)
+JARVIS: JARVIS standing by. Say Hey Jarvis to wake me.
+[tts] Piper voice: en_GB-alan-medium.onnx
+JARVIS is already running.
+[tts] Piper voice: en_GB-alan-medium.onnx
+[stt] loading Whisper 'small' (first run downloads it once)...
+[mic] using: Microphone Array (Intel® Smart Sound Technology for Digital Microphones)
+[stt] Whisper ready
+JARVIS: JARVIS standing by. Say Hey Jarvis to wake me.
+[tts] Piper voice: en_GB-alan-medium.onnx
+[stt] loading Whisper 'small' (first run downloads it once)...
+[stt] Whisper ready
+[mic] using: Microphone Array (Intel® Smart Sound Technology for Digital Microphones)
+JARVIS: JARVIS standing by. Say Hey Jarvis to wake me.
+JARVIS: Assalaamu alaykum, sir. Good afternoon. How may I assist you?
+You: How are you?
+JARVIS: I didn't catch that. Try battery, weather, music, or navigation. Add an API key to jarvis_config.json to let an AI answer anything else.
+You: Jarvis Open Rehab Browser
+JARVIS: I couldn't find that application.
+You: JARVIS.
+JARVIS: I didn't catch that. Try battery, weather, music, or navigation. Add an API key to jarvis_config.json to let an AI answer anything else.
+JARVIS: Standing by.
+JARVIS: Assalaamu alaykum, sir. Good afternoon. How may I assist you?
+You: Can you give me a pump where I can
+JARVIS: I didn't catch that. Try battery, weather, music, or navigation. Add an API key to jarvis_config.json to let an AI answer anything else.
+JARVIS: Standing by.
+JARVIS: Assalaamu alaykum, sir. Good afternoon. How may I assist you?
+JARVIS: Standing by.
+[tts] Piper voice: en_GB-alan-medium.onnx
+[stt] loading Whisper 'small' (first run downloads it once)...
+[stt] Whisper ready
+[mic] using: Microphone Array (Intel® Smart Sound Technology for Digital Microphones)
+JARVIS: JARVIS standing by. Say Hey Jarvis to wake me.
+JARVIS: Assalaamu alaykum, Sajid Boss. Good afternoon. How may I assist you?
+You: Hi, I'm JARVIS.
+[ai] answered by gemini
+JARVIS: Actually, Sajid Boss, I am JARVIS, your assistant. How can I help you today?
+You: JARVIS, Thank you.
+[ai] answered by gemini
+JARVIS: You are very welcome, Sajid Boss. It is always a pleasure to assist you. Let me know if there is anything else you need.
+You: No, that's it. Thank you.
+[ai] answered by gemini
+JARVIS: Understood, Sajid Boss. Have a wonderful day, and I am here whenever you need me.
+You: Now, go to the video.
+JARVIS: Navigation ready.
+You: I'm going to try to open.
+JARVIS: Done.
+You: Come on.
+[ai] answered by gemini
+JARVIS: I am right here and ready, Sajid Boss. Just let me know what you would like to do.
+You: Open the browser.
+JARVIS: I couldn't find that application.
+You: Can you scan my full vision?
+[ai] answered by gemini
+JARVIS: I can scan your screen for you, Sajid Boss. Would you like me to take a look at what is currently on your display?
+You: Yeah, sure.
+[ai] answered by gemini
+JARVIS: Understood, Sajid Boss. Scanning your screen now.
+[tool] look_at_screen({'question': 'What is currently displayed on the screen?'})
+JARVIS: I'll send a screenshot of your screen to Gemini. Is that all right?
+You: No, no, just open brief application on my website, on my desktop.
+[ai] answered by gemini
+JARVIS: No problem, Sajid Boss. I have canceled the screen scan. Let me know if there is anything else I can help you with.
+You: No, that's it. Thank you.
+[ai] answered by gemini
+JARVIS: You are very welcome, Sajid Boss. Have a wonderful rest of your day, and I will be here when you need me.
+JARVIS: Standing by.

@@ -1,0 +1,16 @@
+{"t": "2026-10-04T13:36:30", "kind": "command", "text": "how are you?"}
+{"t": "2026-10-04T13:36:50", "kind": "command", "text": "jarvis open rehab browser"}
+{"t": "2026-10-04T13:37:04", "kind": "command", "text": "jarvis."}
+{"t": "2026-10-04T13:39:53", "kind": "command", "text": "can you give me a pump where i can"}
+{"t": "2026-10-04T13:58:31", "kind": "command", "text": "hi, i'm jarvis."}
+{"t": "2026-10-04T13:58:47", "kind": "command", "text": "jarvis, thank you."}
+{"t": "2026-10-04T13:59:03", "kind": "command", "text": "no, that's it. thank you."}
+{"t": "2026-10-04T13:59:23", "kind": "command", "text": "now, go to the video."}
+{"t": "2026-10-04T13:59:31", "kind": "command", "text": "i'm going to try to open."}
+{"t": "2026-10-04T13:59:37", "kind": "command", "text": "come on."}
+{"t": "2026-10-04T13:59:50", "kind": "command", "text": "open the browser."}
+{"t": "2026-10-04T14:00:02", "kind": "command", "text": "can you scan my full vision?"}
+{"t": "2026-10-04T14:00:17", "kind": "command", "text": "yeah, sure."}
+{"t": "2026-10-04T14:00:38", "kind": "confirm", "question": "I'll send a screenshot of your screen to Gemini. Is that all right?", "answer": "no, no, just open brief application on my website, on my desktop.", "approved": false, "strict": false}
+{"t": "2026-10-04T14:00:38", "kind": "tool", "tool": "look_at_screen", "args": "{'question': 'What is currently displayed on the screen?'}", "result": "the user declined", "tainted": true}
+{"t": "2026-10-04T14:00:56", "kind": "command", "text": "no, that's it. thank you."}

@@ -1,0 +1,53 @@
+{
+  "address": "Sajid Boss",
+  "language": "en-US",
+  "wake_threshold": 0.5,
+  "emergency_number": "999",
+  "emergency_contact": "",
+  "contacts": {
+    "example person": "+97466969598"
+  },
+  "message_method": "whatsapp",
+  "music_app": "Apple Music",
+  "work_apps": [
+    "Teams",
+    "Outlook",
+    "OneDrive"
+  ],
+  "latitude": null,
+  "longitude": null,
+  "city": null,
+  "speech_threshold": 350,
+  "show_overlay": true,
+  "photo_flip": false,
+  "input_device": 9,
+  "ai_provider_order": [
+    "gemini",
+    "claude",
+    "openai",
+    "deepseek",
+    "local"
+  ],
+  "gemini_api_key": "AQ.Ab8RN6KZhDYPO0M7sSt1joBXZFCkPauQnh2wtRkVRI5Y9Xf5nA",
+  "gemini_model": "gemini-3.5-flash",
+  "anthropic_api_key": "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",
+  "claude_model": "claude-haiku-4-5-20251001",
+  "openai_api_key": "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",
+  "openai_model": "gpt-5-mini",
+  "openai_base_url": "https://api.openai.com/v1",
+  "deepseek_api_key": "sk-316f63c48fd94dd3964455d7136f2a7e",
+  "deepseek_model": "deepseek-chat",
+  "deepseek_base_url": "https://api.deepseek.com/v1",
+  "local_base_url": "http://localhost:11434/v1",
+  "local_model": "",
+  "local_api_key": "",
+  "odysseus_url": "http://127.0.0.1:7000",
+  "tts_engine": "auto",
+  "piper_voice": "en_GB-alan-medium",
+  "output_device": null,
+  "stt_engine": "auto",
+  "whisper_model": "small",
+  "whisper_language": "",
+  "agent_mode": "smart",
+  "greeting": "Assalaamu alaykum, {address}. Good {part}. How may I assist you?"
+}

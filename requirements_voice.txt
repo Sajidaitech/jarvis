@@ -1,0 +1,5 @@
+# All free. No accounts, no keys, no payment.
+faster-whisper
+piper-tts
+ddgs
+pillow

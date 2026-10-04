@@ -1,0 +1,49 @@
+12:24:56 run_webview skipped (package missing: No module named 'webview'). Trying the next engine.
+12:24:56 [browser] starting C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+12:25:09 3D overlay engine run_browser failed:
+Traceback (most recent call last):
+  File "C:\Users\SAJIDITECH\Downloads\files (1)\overlay.py", line 333, in run
+    fn(state_file, cfg)
+    ~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\SAJIDITECH\Downloads\files (1)\overlay.py", line 292, in run_browser
+    raise RuntimeError("overlay window did not appear")
+RuntimeError: overlay window did not appear
+
+12:25:09 No 3D overlay engine worked. See the errors above. Set "overlay_style": "wireframe" to use the old robot.
+12:27:21 run_webview skipped (package missing: No module named 'webview'). Trying the next engine.
+12:27:21 [browser] starting C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+12:27:23 page: avatar ready, glb=false, portrait=true
+12:27:23 page: photo-avatar version 3
+12:27:34 [browser] closing
+12:44:35 run_webview skipped (package missing: No module named 'webview'). Trying the next engine.
+12:44:35 [browser] starting C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+12:44:36 page: avatar ready, glb=false, portrait=true
+12:44:36 page: photo-avatar version 3
+12:47:03 [browser] closing
+13:00:24 [pywebview] starting (card) http://127.0.0.1:6177/
+13:00:29 page: avatar ready, glb=false, portrait=true
+13:00:30 page: photo-avatar version 3
+13:00:37 [pywebview] window closed
+13:36:17 [pywebview] starting (card) http://127.0.0.1:62662/
+13:36:19 page: avatar ready, glb=false, portrait=true
+13:36:19 page: photo-avatar version 3
+13:39:33 [pywebview] starting (card) http://127.0.0.1:5434/
+13:39:34 page: avatar ready, glb=false, portrait=true
+13:39:35 page: photo-avatar version 3
+13:39:57 [pywebview] window closed
+13:53:21 [pywebview] starting (card) http://127.0.0.1:6421/
+13:53:23 page: avatar ready, glb=false, portrait=true
+13:53:23 page: photo-avatar version 3
+13:53:31 [pywebview] window closed
+13:58:20 [pywebview] starting (card) http://127.0.0.1:31002/
+13:58:23 page: avatar ready, glb=false, portrait=true
+13:58:23 page: photo-avatar version 3
+13:59:15 [pywebview] window closed
+14:06:58 [pywebview] starting (card) http://127.0.0.1:31338/
+14:07:00 page: avatar ready, glb=false, portrait=true
+14:07:00 page: photo-avatar version 3
+14:07:12 [pywebview] window closed
+14:07:23 [pywebview] starting (card) http://127.0.0.1:26002/
+14:07:24 page: avatar ready, glb=false, portrait=true
+14:07:24 page: photo-avatar version 3
+14:07:36 [pywebview] window closed
